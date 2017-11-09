@@ -1,0 +1,10 @@
+﻿{
+  "Rules": [
+    {
+      "Name": "default",
+      "DestinationType": "File",
+      "Destination": "C:\\Users\\kevin.mouton\\Desktop\\log.txt",
+      "Info": "MinimumLevelForLogging"
+    }
+  ]
+}
